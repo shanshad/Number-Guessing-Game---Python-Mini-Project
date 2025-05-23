@@ -11,4 +11,4 @@ This is a simple yet engaging terminal-based game where you have to guess a rand
 
 ## 📦 How to Run
 1. Make sure you have Python installed (version 3.x).
-2. Copy and run thy python file in your compiler
+2. Copy and run the Python file in your compiler
